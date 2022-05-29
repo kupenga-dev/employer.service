@@ -1,0 +1,91 @@
+.my-leave-requests{
+    width: 675px;
+    height: 687px;
+    position: absolute;
+    top: 78px;
+    left:600px;
+    background-color: white;
+    border-radius: 5px;
+}
+.my-leave-requests h2{
+    font-size: 18px;
+    position: absolute;
+    top: 21px;
+    left:24px;
+}
+
+.my-leave-requests .first-year{
+    width: 675px;
+    height: 22px;
+    background-color: #5495FF;
+    font-size: 12px;
+    color: white;
+    position: absolute;
+    top:65px;
+}
+.my-leave-requests .first-year p{
+    position: absolute;
+    left: 30px;
+    top: 3px
+}
+
+.my-leave-requests .second-year{
+    width: 675px;
+    height: 22px;
+    background-color: #5495FF;
+    font-size: 12px;
+    color: white;
+    position: absolute;
+    top:386px;
+}
+.my-leave-requests .second-year p{
+    position: absolute;
+    left: 30px;
+    top: 3px;
+}
+.first-vacations{
+    position:absolute;
+    top: 87px;
+}
+.second-vacations{
+    position:absolute;
+    top: 405px;
+}
+.vacation{
+    width: 675px;
+    height: 94px;
+    position: relative;
+}
+.vacation .vacation-info{
+    font-size: 15px;
+    position: absolute;
+    left: 90px;
+    top: 13px;
+    font-weight: 600;
+}
+.vacation p{
+    font-size: 12px;
+    font-weight: 400;
+    position: absolute;
+    top: 36px;
+    left:90px
+}
+.vacation .green-text{
+    color: #3FAD44;
+    font-size: 12px;
+    position: absolute;
+    top: 58px;
+    left: 90px;
+}
+.vacation .vacation-image{
+    position: absolute;
+    top: 15px;
+    left:26px;
+}
+
+.vacation .vector-image{
+    position: absolute;
+    left:641px;
+    top:16px;
+    cursor: pointer;
+}

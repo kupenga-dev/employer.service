@@ -14,7 +14,7 @@
     font-size: 18px;
     font-weight: 600;
 }
-.newRequest select{
+.newRequest .vacation{
     position: absolute;
     top:235px;
     left: 30px;
@@ -52,6 +52,7 @@
     background-color: #5495FF;
     border-radius: 3px;
     color: white;
+    cursor: pointer;
 }
 .newRequest .have-questions{
     position: absolute;
@@ -92,4 +93,31 @@
     top: 284px;
     left: 330px;
     font-size: 13px;
+}
+.newRequest .start{
+    position: absolute;
+    top:307px;
+    left: 30px;
+    width: 140px;
+    height: 36px;
+    background-color: white;
+    border: 1px rgb(212, 212, 212) solid;
+}
+.newRequest .end{
+    position: absolute;
+    top:307px;
+    left: 180px;
+    width: 140px;
+    height: 36px;
+    background-color: white;
+    border: 1px rgb(212, 212, 212) solid;
+}
+.newRequest .days-select{
+    position: absolute;
+    top:307px;
+    left: 330px;
+    width: 60px;
+    height: 36px;
+    background-color: white;
+    border: 1px rgb(212, 212, 212) solid;
 }

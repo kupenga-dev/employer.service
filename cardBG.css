@@ -20,6 +20,7 @@
     height: 26px;
     border: 1px rgb(199, 197, 197) solid;
     background-color: rgb(233, 233, 233);
+    cursor: pointer;
 }
 .available{
     font-size: 13px;

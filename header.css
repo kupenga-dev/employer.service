@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding:0;
+}
+body{
+    background-color: rgb(235, 235, 235);
+    font-family: 'Open Sans', sans-serif;
+    height: 950px;
+}
+header{
+    width: 100%;
+    height: 68px;
+    background-color: #225FBF;
+    display: flex;
+}
+
+.logo{
+    position:absolute;
+    top:24px;
+    left: 120px;
+    color: white;
+    font-size: 20px;
+}
+
+nav{
+    position: absolute;
+    top: 24px;
+    left: 500px;
+    
+}
+
+nav a{
+    text-decoration: none;
+    color: white;
+    font-size: 13px;
+    font-weight: 600;
+    margin: 0px 20px;
+}
+
+.user{
+    position: absolute;
+    left: 1000px;
+    top: 20px;
+    width: 134px;
+    height: 32px;
+    background-color: #1753B3;
+    color: white;
+    font-size: 11px;
+    border-radius: 20px;
+    font-weight: 600;
+}
+.user p{
+    margin-top: 8px;
+    text-align: center;
+}
+.CR{
+    position: absolute;
+    top:20px;
+    left: 950px;
+}
+.CR button{
+    border-radius: 100px;
+    background-color: #1753B3;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    border: none;
+    color: white;
+    font-size: 20px;
+}
+.logout{
+    position: absolute;
+    top:20px;
+    left: 1150px;
+}
+
+.logout button{
+    border-radius: 100px;
+    background-color: #1753B3;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    border: none;
+    color: white;
+    font-size: 20px;
+}

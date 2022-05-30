@@ -2,6 +2,16 @@
     margin: 0;
     padding:0;
 }
+.wrapper{
+    margin: 0 auto;
+    width: 1450px;
+    position: relative;
+}
+.header-wrapper{
+    margin: 0 auto;
+    width: 1450px;
+    position: relative;
+}
 body{
     background-color: rgb(241, 241, 241);
     font-family: 'Open Sans', sans-serif;
@@ -48,11 +58,14 @@ nav a{
     font-size: 11px;
     border-radius: 20px;
     font-weight: 600;
+    display:flex;
 }
 .user p{
     margin-top: 8px;
+    margin-left: 4px;
     text-align: center;
 }
+
 .CR{
     position: absolute;
     top:20px;
@@ -67,6 +80,7 @@ nav a{
     border: none;
     color: white;
     font-size: 20px;
+    cursor:pointer;
 }
 .logout{
     position: absolute;
@@ -83,4 +97,5 @@ nav a{
     border: none;
     color: white;
     font-size: 20px;
+    cursor: pointer;
 }

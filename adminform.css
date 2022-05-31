@@ -1,0 +1,248 @@
+.wrapper{
+    position: absolute;
+    top: 86px;
+    left: 135px;
+    background-color: white;
+    width: 1250px;
+    height: 1100px;
+}
+hr{
+    position: absolute;
+    top: 40px;
+    left: 275px;
+    width: 690px;
+    height: 1px;
+    border: none;
+    background-color: black;
+}
+.cancel-button{
+    width: 70px;
+    height: 36px;
+    background-color: rgb(240, 240, 240);
+    color: #225FBF;
+    border: none;
+    position: absolute;
+    left: 1030px;
+    top: 10px;
+    cursor: pointer;
+}
+.create-button{
+    width: 90px;
+    height: 36px;
+    background-color: #225FBF;
+    color: #ffffff;
+    border: none;
+    position: absolute;
+    left: 1120px;
+    top: 10px;
+    cursor: pointer;
+}
+h3{
+    position: absolute;
+    top: 20px;
+    left: 275px;
+    font-size: 13px;
+    font-weight: 100px;
+}
+.checkbox{
+    position: absolute;
+    top:59px;
+    left: 701px;
+}
+.title{
+    position: absolute;
+    top:69px;
+    left: 301px;
+}
+.inputs input{
+    width: 260px;
+    height: 36px;
+    border-radius: 4px;
+    border: 1px black solid;
+}
+.inp1{
+    position: absolute;
+    top:109px;
+    left: 701px;
+}
+.fname{
+    position: absolute;
+    top:119px;
+    left: 301px;
+}
+.inp2{
+    position: absolute;
+    top:159px;
+    left: 701px;
+}
+.lname{
+    position: absolute;
+    top:169px;
+    left: 301px;
+}
+.inp3{
+    position: absolute;
+    top:209px;
+    left: 701px;
+}
+.f-name-native{
+    position: absolute;
+    top:219px;
+    left: 301px;
+}
+.inp4{
+    position: absolute;
+    top:259px;
+    left: 701px;
+}
+.m-name-native{
+    position: absolute;
+    top:269px;
+    left: 301px;
+}
+.inp5{
+    position: absolute;
+    top:309px;
+    left: 701px;
+}
+.l-name-native{
+    position: absolute;
+    top:319px;
+    left: 301px;
+}
+.manager{
+    position: absolute;
+    top:369px;
+    left: 301px;
+}
+.manager-select{
+    width: 260px;
+    height: 36px;
+    border-radius: 4px;
+    border: 1px black solid;
+    background-color: white;
+    position: absolute;
+    top:359px;
+    left: 701px;
+}
+.usericon{
+    position: absolute;
+    top:71px;
+    left: 271px;
+}
+.building-select{
+    width: 260px;
+    height: 36px;
+    border-radius: 4px;
+    border: 1px black solid;
+    background-color: white;
+    position: absolute;
+    top:459px;
+    left: 701px;
+}
+.building{
+    position: absolute;
+    top:459px;
+    left: 301px;
+}
+.buildingicon{
+    position: absolute;
+    top:459px;
+    left: 271px;
+}
+.department-select{
+    width: 260px;
+    height: 36px;
+    border-radius: 4px;
+    border: 1px black solid;
+    background-color: white;
+    position: absolute;
+    top:509px;
+    left: 701px;
+}
+.department{
+    position: absolute;
+    top:509px;
+    left: 301px;
+}
+.departmenticon{
+    position: absolute;
+    top:509px;
+    left: 271px;
+}
+.room-select{
+    width: 260px;
+    height: 36px;
+    border-radius: 4px;
+    border: 1px black solid;
+    background-color: white;
+    position: absolute;
+    top:559px;
+    left: 701px;
+}
+.room{
+    position: absolute;
+    top:559px;
+    left: 301px;
+}
+.roomicon{
+    position: absolute;
+    top:559px;
+    left: 271px;
+}
+
+h4{
+    position: absolute;
+    top: 620px;
+    left: 275px;
+    font-size: 13px;
+    font-weight: 100px;
+}
+.contacts{
+    position: absolute;
+    top: 645px;
+    left: 275px;
+    width: 690px;
+    height: 1px;
+    border: none;
+    background-color: black;
+}
+
+.phone{
+    position: absolute;
+    top:669px;
+    left: 301px;
+}
+.email{
+    position: absolute;
+    top:719px;
+    left: 301px;
+}
+.phoneinput{
+    width: 260px;
+    height: 36px;
+    border-radius: 4px;
+    border: 1px black solid;
+    position: absolute;
+    top:709px;
+    left: 701px;
+}
+.emailinput{
+    width: 260px;
+    height: 36px;
+    border-radius: 4px;
+    border: 1px black solid;
+    position: absolute;
+    top:659px;
+    left: 701px;
+}
+.mobileicon{
+    position: absolute;
+    top:669px;
+    left: 271px;
+}
+.emailicon{
+    position: absolute;
+    top:719px;
+    left: 271px;
+}

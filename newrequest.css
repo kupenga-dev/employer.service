@@ -6,6 +6,7 @@
     top:215px;
     left: 120px;
     border-radius: 5px;
+    display: block;
 }
 .newRequest h1{
     position: absolute;
@@ -113,6 +114,265 @@
     border: 1px rgb(212, 212, 212) solid;
 }
 .newRequest .days-select{
+    position: absolute;
+    top:307px;
+    left: 330px;
+    width: 60px;
+    height: 36px;
+    background-color: white;
+    border: 1px rgb(212, 212, 212) solid;
+}
+
+
+
+
+
+
+
+.newRequest2{
+    width: 470px;
+    height: 627px;
+    background-color: white;
+    position: absolute;
+    top:215px;
+    left: 120px;
+    border-radius: 5px;
+    display:none;
+}
+.newRequest2 .text{
+    font-size: 13px;
+    font-weight: 600;
+    position: absolute;
+    top: 283px;
+    left:29px;
+    width: 360px;
+    height: 54px;
+}
+
+.newRequest2 h1{
+    position: absolute;
+    top: 199px;
+    left: 30px;
+    font-size: 18px;
+    font-weight: 600;
+}
+.newRequest2 .vacation{
+    position: absolute;
+    top:235px;
+    left: 30px;
+    width: 360px;
+    height: 36px;
+    background-color: white;
+    border: 1px rgb(212, 212, 212) solid;
+    border-radius: 4px;
+}
+
+.newRequest2 .startDATE{
+    position: absolute;
+    top: 361px;
+    left: 30px;
+    font-size: 13px;
+}
+.newRequest2 .startDATE span{
+    color: rgb(114, 114, 114);
+}
+.newRequest2 .endDATE{
+    position: absolute;
+    top: 361px;
+    left: 214px;
+    font-size: 13px;
+}
+.newRequest2 .endDATE span{
+    color: rgb(114, 114, 114);
+}
+
+.newRequest2 .start{
+    position: absolute;
+    top:384px;
+    left: 30px;
+    width: 176px;
+    height: 36px;
+    background-color: white;
+    border: 1px rgb(212, 212, 212) solid;
+}
+.newRequest2 .end{
+    position: absolute;
+    top:384px;
+    left: 214px;
+    width: 176px;
+    height: 36px;
+    background-color: white;
+    border: 1px rgb(212, 212, 212) solid;
+}
+
+.newRequest2 h2{
+    position: absolute;
+    top: 438px;
+    left: 30px;
+    font-size: 13px;
+}
+
+.newRequest2 input{
+    position: absolute;
+    top:461px;
+    left: 30px;
+    width: 361px;
+    height: 80px;
+    border-radius: 4px;
+    background-color: white;
+    border: 1px rgb(212, 212, 212) solid;
+}
+.newRequest2 button{
+    border: none;
+    position: absolute;
+    top:561px;
+    left:30px;
+    width: 120px;
+    height: 36px;
+    background-color: #5495FF;
+    border-radius: 3px;
+    color: white;
+    cursor: pointer;
+}
+.newRequest2 .have-questions{
+    position: absolute;
+    top: 569px;
+    left:231px;
+    font-size: 13px;
+    color: #333333;
+    cursor: pointer;
+}
+.newRequest2 a{
+    text-decoration: none;
+    position: absolute;
+    top: 569px;
+    left:334px;
+    color: #5495FF;
+    font-size: 13px;
+}
+
+
+
+
+
+
+
+.newRequest3{
+    width: 470px;
+    height: 550px;
+    background-color: white;
+    position: absolute;
+    top:215px;
+    left: 120px;
+    border-radius: 5px;
+    display: none;
+}
+.newRequest3 h1{
+    position: absolute;
+    top: 199px;
+    left: 30px;
+    font-size: 18px;
+    font-weight: 600;
+}
+.newRequest3 .vacation{
+    position: absolute;
+    top:235px;
+    left: 30px;
+    width: 360px;
+    height: 36px;
+    background-color: white;
+    border: 1px rgb(212, 212, 212) solid;
+    border-radius: 4px;
+}
+
+.newRequest3 h2{
+    position: absolute;
+    top: 361px;
+    left: 30px;
+    font-size: 13px;
+}
+
+.newRequest3 input{
+    position: absolute;
+    top:384px;
+    left: 30px;
+    width: 361px;
+    height: 80px;
+    border-radius: 4px;
+    background-color: white;
+    border: 1px rgb(212, 212, 212) solid;
+}
+.newRequest3 button{
+    border: none;
+    position: absolute;
+    top:484px;
+    left:30px;
+    width: 120px;
+    height: 36px;
+    background-color: #5495FF;
+    border-radius: 3px;
+    color: white;
+    cursor: pointer;
+}
+.newRequest3 .have-questions{
+    position: absolute;
+    top: 493px;
+    left:231px;
+    font-size: 13px;
+    color: #333333;
+    cursor: pointer;
+}
+.newRequest3 a{
+    text-decoration: none;
+    position: absolute;
+    top: 493px;
+    left:334px;
+    color: #5495FF;
+    font-size: 13px;
+}
+.newRequest3 .startDATE{
+    position: absolute;
+    top: 284px;
+    left: 30px;
+    font-size: 13px;
+}
+.newRequest3 .startDATE span{
+    color: rgb(114, 114, 114);
+}
+.newRequest3 .endDATE{
+    position: absolute;
+    top: 284px;
+    left: 180px;
+    font-size: 13px;
+}
+.newRequest3 .endDATE span{
+    color: rgb(114, 114, 114);
+}
+.newRequest3 .days{
+    position: absolute;
+    top: 284px;
+    left: 330px;
+    font-size: 13px;
+}
+.newRequest3 .start{
+    position: absolute;
+    top:307px;
+    left: 30px;
+    width: 176px;
+    height: 36px;
+    background-color: white;
+    border: 1px rgb(212, 212, 212) solid;
+}
+.newRequest3 .end{
+    position: absolute;
+    top:307px;
+    left: 216px;
+    width: 176px;
+    height: 36px;
+    background-color: white;
+    border: 1px rgb(212, 212, 212) solid;
+}
+.newRequest3 .days-select{
     position: absolute;
     top:307px;
     left: 330px;

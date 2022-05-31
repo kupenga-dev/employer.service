@@ -6,6 +6,7 @@
     left:600px;
     background-color: white;
     border-radius: 5px;
+    display:none;
 }
 .my-leave-requests h2{
     font-size: 18px;
@@ -88,4 +89,49 @@
     left:641px;
     top:16px;
     cursor: pointer;
+}
+
+.my-leave-requests-empty{
+    width: 675px;
+    height: 687px;
+    position: absolute;
+    top: 78px;
+    left:600px;
+    background-color: white;
+    border-radius: 5px;
+    display:block;
+}
+
+.my-leave-requests-empty h2{
+    font-size: 18px;
+    position: absolute;
+    top: 21px;
+    left:24px;
+}
+
+.my-leave-requests-empty img{
+    position: absolute;
+    top:206px;
+    left: 217px;
+}
+
+.my-leave-requests-empty h3{
+    font-size: 14px;
+    font-weight: 600;
+    position:absolute;
+    top: 405px;
+    left:241px;
+    text-align: center;
+}
+
+.my-leave-requests-empty p{
+    position: absolute;
+    top:430px;
+    left:201px;
+    color: #494949;
+    width: 260px;
+    height: 56px;
+    font-weight: 400;
+    text-align: center;
+    font-size: 13px;
 }

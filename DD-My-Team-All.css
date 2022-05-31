@@ -1,0 +1,90 @@
+.employees{
+    width: 1281px;
+    height: 851px;
+    border-radius: 5px;
+    background-color: white;
+    position: absolute;
+    top: 28px;
+    left: 99px;
+}
+.employees h1{
+    font-size: 18px;
+    position: absolute;
+    left: 46px;
+    top: 31px;
+    color: black;
+}
+.employees input{
+    width: 252px;
+    height: 36px;
+    border-radius: 3px;
+    position: absolute;
+    top: 75px;
+    left: 46px;
+}
+
+.employees .buttons{
+    position: absolute;
+    top: 75px;
+    left: 315px;
+}
+.buttons button{
+    height: 36px;
+    padding: 0 10px;
+    border: none;
+    color: #5495FF
+}
+.content{
+    position: absolute;
+    top:125px;
+    left:21px;
+}
+.letere{
+    background-color: #5495FF;
+    width: 1196px;
+    height: 22px;
+    color: white;
+    padding: 0 20px;
+}
+.person-block{
+    width: 1236px;
+    height: 170px;
+    position: relative;
+}
+.DD-avatar{
+    border-radius: 100px;
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    top:26px;
+    left:46px;
+}
+.DD-avatar-icon{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top:65px;
+    left:44px;
+    border-radius: 20px;
+    border: 2px white solid;
+}
+.DD-name{
+    font-size: 15px;
+    position: absolute;
+    top: 23px;
+    left: 132px;
+}
+.Progect-name{
+    font-size: 12px;
+    position: absolute;
+    top:63px;
+    left: 132px;
+}
+.DD-info{
+    position: absolute;
+    top: 93px;
+    left:132px
+}
+.DD-info p {
+    font-size: 11px;
+}

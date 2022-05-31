@@ -1,0 +1,211 @@
+.wrapper{
+    width: 1170px;
+    height: 788px;
+    border-radius: 5px;
+    background-color: white;
+    position: absolute;
+    left: 135px;
+    top: 86px;
+}
+.back{
+    border: none;
+    background-color: white;
+    width: 32px;
+    height: 32px;
+    position: absolute;
+    top: 24px;
+    left: 24px;
+    cursor: pointer;
+}
+.profil-avatar{
+    border-radius: 100px;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    top: 24px;
+    left: 84px;
+}
+.profil-avatar-image{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    position: absolute;
+    top:175px;
+    left: 83px;
+    border: 7px white solid;
+}
+.Mr{
+    position: absolute;
+    top: 244px;
+    left:179px;
+    font-size: 15px;
+    color:#AFB7BF;
+}
+.person-name{
+    position: absolute;
+    left:34px;
+    width: 300px;
+    height: 20px;
+    top:268px;
+    text-align: center;
+}
+.person-ru-name{
+    position: absolute;
+    left:34px;
+    width: 300px;
+    height: 20px;
+    top:296px;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 600;
+    color: #AFB7BF
+}
+
+.copy-button{
+    position: absolute;
+    top:328px;
+    left:150px;
+    width: 68px;
+    height: 32px;
+    background-color: #F1F2F7;
+    border: none;
+    border-radius: 40px;
+    color: #AFB7BF;
+    cursor: pointer;
+}
+.general-info{
+    position: absolute;
+    top: 32px;
+    left:402px;
+    font-size: 13px;
+    font-weight: 600px;
+    color:#818D99;
+}
+.building{
+    position: absolute;
+    top:76px;
+    left:434px;
+}
+.building-info{
+    position: absolute;
+    top:76px;
+    left:835px;
+}
+
+.department{
+    position: absolute;
+    top:116px;
+    left:434px;
+}
+.department-info{
+    position: absolute;
+    top:116px;
+    left:835px;
+}
+.room{
+    position: absolute;
+    top:156px;
+    left:434px;
+}
+.room-info{
+    position: absolute;
+    top:156px;
+    left:835px;
+}
+
+.contacts{
+    position: absolute;
+    top: 232px;
+    left:402px;
+    font-size: 13px;
+    font-weight: 600px;
+    color:#818D99;
+}
+.email{
+    position: absolute;
+    top:276px;
+    left:434px;
+}
+.email-info{
+    position: absolute;
+    top:276px;
+    left:835px;
+}
+.mobile-phone{
+    position: absolute;
+    top:316px;
+    left:434px;
+}
+.mobile-phone-info{
+    position: absolute;
+    top:316px;
+    left:835px;
+}
+
+.profile-info{
+    position: absolute;
+    top: 392px;
+    left:402px;
+    font-size: 13px;
+    font-weight: 600px;
+    color:#818D99;
+}
+
+.hire-date{
+    position: absolute;
+    top:436px;
+    left:434px;
+}
+.hire-date-info{
+    position: absolute;
+    top:436px;
+    left:835px;
+}
+.status{
+    position: absolute;
+    top:476px;
+    left:434px;
+}
+.status-info{
+    position: absolute;
+    top:476px;
+    left:835px;
+}
+.icons img{
+    width: 20px;
+    position: absolute;
+    left:400px;
+}
+.email-icon{
+    top: 276px
+}
+.phone-icon{
+    top: 316px;
+}
+.room-icon{
+    top: 156px
+}
+.dep-icon{
+    top:116px;
+}
+.build-icon{
+    top: 76px;
+}
+
+.date-icon{
+    top: 434px
+}
+.status-icon{top: 474px}
+
+.edit-details-button{
+    width: 112px;
+    height: 36px;
+    position: absolute;
+    top:24px;
+    left:1034px;
+    background-color: #F6F8FD;
+    color: #225FBF;
+    font-size: 12px;
+    border: none;
+    cursor: pointer;
+}

@@ -1,0 +1,79 @@
+.cardGB-DD{
+    position: absolute;
+    top: 78px;
+    left: 120px;
+    width: 670px;
+    height: 566px;
+    background-color: white;
+}
+.cardGB-DD-header{
+    width: 670px;
+    height: 137px;
+    position: relative;
+}
+.cardGB-DD-header .avatarka{
+    position: absolute;
+    top: 30px;
+    left:82px;
+    height: 64px;
+    width: 64px;
+    border-radius: 64px;
+}
+.cardGB-DD-header button{
+    position: absolute;
+    top: 46px;
+    left: 30px;
+    width: 32px;
+    height: 32px;
+    border: none;
+    background-color: white;
+}
+.cardGB-DD-header .info{
+    position: absolute;
+    top: 31px;
+    left: 166px;
+}
+.working-year{
+    width: 670px;
+    height: 22px;
+    background-color: #5495FF;
+    color: white;
+}
+
+.cardGB-DD-info-block .info{
+    margin-top: 15px;
+    margin-left: 30px;
+}
+
+.request-DD{
+    position: absolute;
+    top:78px;
+    left:801px;
+    width: 470px;
+    height: 791px;
+    background-color: white;
+}
+.request-DD h2{
+    height: 65px;
+}
+.req-card{
+    position: relative;
+    width: 470px;
+    height: 114px;
+}
+.req-card img{
+    position: absolute;
+    top: 15px;
+    left: 25px;
+}
+.req-card .txt{
+    top: 13px;
+    left: 90px;
+    position: absolute;
+}
+.blueline{
+    height: 22px;
+    width: 470px;
+    background-color:#5495FF;
+    color: white;
+}

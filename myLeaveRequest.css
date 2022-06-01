@@ -6,7 +6,7 @@
     left:600px;
     background-color: white;
     border-radius: 5px;
-    display:none;
+    display:block;
 }
 .my-leave-requests h2{
     font-size: 18px;
@@ -15,43 +15,23 @@
     left:24px;
 }
 
+.myleave-request-container{
+    position: absolute;
+    top:65px;
+}
+
 .my-leave-requests .first-year{
     width: 675px;
     height: 22px;
     background-color: #5495FF;
     font-size: 12px;
     color: white;
-    position: absolute;
-    top:65px;
+    
 }
 .my-leave-requests .first-year p{
-    position: absolute;
-    left: 30px;
-    top: 3px
+  
 }
 
-.my-leave-requests .second-year{
-    width: 675px;
-    height: 22px;
-    background-color: #5495FF;
-    font-size: 12px;
-    color: white;
-    position: absolute;
-    top:386px;
-}
-.my-leave-requests .second-year p{
-    position: absolute;
-    left: 30px;
-    top: 3px;
-}
-.first-vacations{
-    position:absolute;
-    top: 87px;
-}
-.second-vacations{
-    position:absolute;
-    top: 405px;
-}
 .vacation{
     width: 675px;
     height: 94px;
@@ -99,7 +79,7 @@
     left:600px;
     background-color: white;
     border-radius: 5px;
-    display:block;
+    display:none;
 }
 
 .my-leave-requests-empty h2{

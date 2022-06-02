@@ -109,3 +109,24 @@
     left: 30px;
     top: 10px
 }
+
+.buttons1{
+    height: 60px;
+    width: 500px;
+    background-color: #f7f7f7;
+    
+}
+.buttons1 button{
+    height: 36px;
+    margin-top: 10px;
+    justify-content: left;
+    color:#5495FF;
+    border: none;
+    background-color: white;
+    cursor: pointer;
+}
+.buttons1 .cl{
+    background-color:#5495FF;
+    color: white;
+    width: 90px;
+}

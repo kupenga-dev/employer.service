@@ -1,0 +1,111 @@
+.form1{
+    width: 500px;
+    height: auto;
+    border-radius: 10px;
+    background-color: white;
+    position: absolute;
+    left: 200px;
+    top: 100px;
+}
+.form1-header{
+    width: 500px;
+    height: 60px;
+}
+.form1-header h4{
+    font-size: 16px;
+    font-weight: 400;
+    top: 20px;
+    left: 25px;
+    position: absolute;
+}
+.form1-header img{
+    position: absolute;
+    left: 195px;
+    top:20px;
+}
+.person-inform{
+    height: 91px;
+    position: relative;
+}
+.person-inform img{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    position: absolute;
+    left: 30px;
+}
+.person-inform .text{
+    position: absolute;
+    left: 95px;
+    top: 0px;
+}
+.person-inform .text h3{
+    font-size: 15px;
+    font-weight: 400;
+}
+.person-inform .text p {
+    font-size: 12px;
+}
+.zagolovok{
+    margin-left: 30px;
+    font-size: 12px;
+    color:#AFB7BF;
+    margin-bottom: 10px;
+
+}
+.selected-person{
+    position: relative;
+    height: 51px;
+}
+.selected-person img{
+  position: absolute;
+  left: 30px
+}
+.selected-person .text{
+    position: absolute;
+    left: 90px;
+}
+.selected-person .text .name{
+    font-size: 13px;;
+}
+.selected-person .text .comments{
+    font-size: 12px;;
+}
+.not-selected-person {
+    position: relative;
+    height: 41px;
+}
+.not-selected-person .name{
+    font-size: 13px;;
+    position: absolute;
+    left: 90px;
+    top: 7px
+}
+.not-selected-person img{
+    position: absolute;
+    left: 30px;
+    width: 32px;
+    height: 32px;
+    border-radius: 32px;
+}
+
+.comment{
+    height: 151px;
+    position: relative;
+}
+.comment input{
+    width: 440px;
+    height: 80px;
+    border-radius: 4px;
+    border: 1px black solid;
+    position: absolute;
+    top: 38px;
+    left: 30px;
+}
+.comment h4{
+    font-size: 13px;
+    font-weight: 600px;
+    position: absolute;
+    left: 30px;
+    top: 10px
+}

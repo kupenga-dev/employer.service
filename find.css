@@ -1,0 +1,97 @@
+.find-header{
+    position: absolute;
+    left:85px;
+    top: 90px;
+    width: 802px;
+    height: 215px;
+    background-color: white;
+}
+.find-header img{
+    position: absolute;
+    top:30px;
+    left:285px;
+}
+.find-header h1{
+    font-size: 24px;
+    font-weight: 400;
+    position: absolute;
+    top:141px;
+    left: 285px;
+}
+.nav{
+    position: absolute;
+    top: 191px;
+    left: 280px;
+    
+}
+.nav a{
+    text-decoration: none;
+    font-size: 11px;
+    padding: 0 10px;
+}
+
+
+
+.base-search{
+    position: absolute;
+    width: 802px;
+    height: 83px;
+    top: 305px;
+    left:85px;
+    background-color: rgb(247, 247, 247);
+}
+.base-search input{
+    width: 312px;
+    height: 30px;
+    position: absolute;
+    top: 17px;
+    left:194px;
+}
+.base-search button{
+    height: 33px;
+    width: 100px;
+    position: absolute;
+    top: 17px;
+    left: 508px;
+    background-color: #5495FF;
+    color: white;
+    border: 1px black solid;
+}
+.base-search p{
+    font-size: 10px;
+    position: absolute;
+    top: 55px;
+    left: 170px;
+    color: rgb(61, 61, 61);
+}
+
+.advanced-search{
+    position: absolute;
+    width: 802px;
+    height: 830px;
+    top: 305px;
+    left:85px;
+    background-color: rgb(247, 247, 247);
+}
+.advanced-search .container{
+    position: absolute;
+    top: 20px;
+    left: 250px;
+}
+.advanced-search input{
+    width: 312px;
+    height: 30px;
+}
+.advanced-search select{
+    width: 312px;
+    height: 30px;
+}
+.advanced-search button{
+    width: 312px;
+    height: 30px;
+    background-color: #5495FF;
+    color: white;
+    border: 1px black solid;
+    margin-top: 20px ;
+    cursor: pointer;
+}

@@ -1,12 +1,15 @@
+import Login from "components/Login";
 import React from "react";
-import Login from "./components/Login";
-import Missing from "./components/Missing";
 import { Routes, Route } from 'react-router-dom';
+import HomePage from "pages/HomePage";
+import Missing from "pages/Missing";
+import { RequireAuth } from "hoc/RequireAuth";
 
 function App() {
   return (
     <Routes>
-      <Route path="/" element={<Login />} />
+      <Route path="/login" element={<Login />} />
+      <Route path="/" element={<HomePage />} />
       <Route path="*" element={<Missing />} />
     </Routes>
   );

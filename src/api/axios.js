@@ -3,8 +3,9 @@ const BASE_URL = "https://employee-service-app.herokuapp.com/";
 export default axios.create({
     baseURL: BASE_URL
 });
-export const axiosPrivate = axios.create({
+export const axiosAuth = axios.create({
     baseURL: BASE_URL,
-    headers: { 'Content-Type': 'application/json' },
-    withCredentials: true
+    headers: {
+        "Authorization-token": localStorage.getItem('authorization_token')
+    }
 });
